@@ -106,7 +106,8 @@
 				B68A7DBE210575CD004DD1A0 /* UIView+KTExtra.h */,
 				B68A7DBF210575CD004DD1A0 /* UIView+KTExtra.m */,
 			);
-			path = "NSObject+KTHUD";
+			name = "NSObject+KTHUD";
+			path = "../NSObject+KTHUD";
 			sourceTree = "<group>";
 		};
 		CE08F1CD3C983378BE69F453 /* Pods */ = {
